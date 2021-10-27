@@ -1,4 +1,4 @@
-### Hi 👋, I´m Carlos Medina 👋
+
 <h1 align="center">Hi 👋, I´m Carlos Medina 👋</h1>
 
 <!--
