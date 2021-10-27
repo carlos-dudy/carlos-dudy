@@ -1,4 +1,5 @@
 ### Hi 👋, I´m Carlos Medina 👋
+<h1 align="center">Hi 👋, I´m Carlos Medina 👋</h1>
 
 <!--
 **carlos-dudy/carlos-dudy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
