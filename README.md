@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I´m Carlos Medina 👋</h1>
 
-<img src="https://getflywheel.com/layout/wp-content/uploads/2019/02/The_Best_Java_Script_Libraries_1800x500-1-1280x356.jpg" height="190" width="100%"/>
+<img src="https://getflywheel.com/layout/wp-content/uploads/2019/02/The_Best_Java_Script_Libraries_1800x500-1-1280x356.jpg" height="220" width="100%"/>
 
 <h3 align='center' >I love the idea of ​​creating what your imagination tells you, looking for the best solution to problems. But what I like the most is learning new things about the team.<h3>
 <h3 align='center'> I´m a developer, I live in Argentina, and I know the following technologies:
