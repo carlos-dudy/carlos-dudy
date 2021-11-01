@@ -32,6 +32,8 @@ JavaScripts, NodeJs, React, Redux, SQL and others more.<h3>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="26px"  align="left"/>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="26px"  align="left"/>
+  
+ <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="express" width="26px"  align="left"/>
 
 <br/>
 
