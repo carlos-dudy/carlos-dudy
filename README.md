@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I´m Carlos Medina 👋</h1>
 
-<img src="https://midu.dev/images/wallpapers/web-technologies-4k-wallpaper.png" height="190" width="100%"/>
+<img src="https://images.unsplash.com/photo-1581276879432-15e50529f34b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1470&q=80" height="190" width="100%"/>
 
 <h3 align='center' >I love the idea of ​​creating what your imagination tells you, looking for the best solution to problems. But what I like the most is learning new things about the team.<h3>
 <h3 align='center'> I´m a developer, I live in Argentina, and I know the following technologies:
