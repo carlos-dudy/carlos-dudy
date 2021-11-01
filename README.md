@@ -15,7 +15,7 @@ JavaScripts, NodeJs, React, Redux, SQL and others more.<h3>
   <br/>
   
   ### 🚀💻 Languages and Tools
-
+ <br/>
 <!-- Solo se cambia la url, ya que todo esta en un repo de  github: https://github.com/devicons/devicon/tree/master/icons-->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="26px"  align="left"/>
 
