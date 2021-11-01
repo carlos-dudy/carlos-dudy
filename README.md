@@ -8,13 +8,10 @@
 JavaScripts, NodeJs, React, Redux, SQL and others more.<h3>
 
 📫 Contact me:
-
-
 <a href='http://https://www.linkedin.com/in/carlos-medina-code/'><img src='https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw' height="30" width="30"/><a>
-
-
-
+  
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Gmail_%282015-2020%29.svg/1280px-Logo_Gmail_%282015-2020%29.svg.png" height="30" width="40"/> crmg.camg@gmail.com<p>
+  <br/>
   
   ### 🚀💻 Languages and Tools
 
