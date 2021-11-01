@@ -16,7 +16,7 @@ JavaScripts, NodeJs, React, Redux, SQL and others more.<h3>
 
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Gmail_%282015-2020%29.svg/1280px-Logo_Gmail_%282015-2020%29.svg.png" height="30" width="40"/> crmg.camg@gmail.com<p>
 
-
+![Github Stats](https://github-readme-stats.vercel.app/api?username=carlos-dudy&count_private=true&show_icons=true)
 <!--
 **carlos-dudy/carlos-dudy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
